@@ -7,9 +7,9 @@ image: img/iaycxtg.jpg
 blurb:
   heading: About
   text: >-
-    The Knoxville City Hackathon is coming back this summer for it's 2nd
-    edition, stay tuned for more details on a weekend of civic-minded innovation
-    and collaboration downtown in our beloved city of Knoxville.
+    The Knoxville City Hackathon is coming back this summer for its 2nd edition,
+    stay tuned for more details on a weekend of civic-minded innovation and
+    collaboration downtown in our beloved city of Knoxville.
 intro:
   heading: Hack on the Scruffy City
   text: >-
