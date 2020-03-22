@@ -1,20 +1,38 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Knoxville City Hackathon
+subtitle: >-
+  Join us for a weekend of civic-minded innovation and collaboration downtown in
+  our beloved city of Knoxville
+image: img/iaycxtg.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: About
+  text: >-
+    The Knoxville City Hackathon is coming back this summer for it's 2nd
+    edition, stay tuned for more details on a weekend of civic-minded innovation
+    and collaboration downtown in our beloved city of Knoxville.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+  heading: Hack on the Scruffy City
+  text: >-
+    During 28 caffeine-filled, sleepless hours, members from the Greater
+    Knoxville community will brainstorm, build, break, test, and deploy whatever
+    they can imagine, for the chance to win amazing prizes totaling over $6,400.
 
+
+    There will also be plenty of time to interact with professional mentors and
+    engineers, meet recruiters, and listen to great tech talks and tutorials
+    from sponsors.
+products:
+  - image: img/cityofknoxville.svg
+    text: ' '
+  - image: img/knoxdevs.svg
+    text: ' '
+  - image: img/kec.png
+    text: ' '
+values:
+  heading: Our values
+  text: >-
+    Coffee is an amazing part of human culture but it has a dark side too – one
+    of colonialism and mindless abuse of natural resources and human lives. We
+    want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
+---
