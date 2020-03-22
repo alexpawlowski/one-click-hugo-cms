@@ -21,7 +21,14 @@ intro:
     There will also be plenty of time to interact with professional mentors and
     engineers, meet recruiters, and listen to great tech talks and tutorials
     from sponsors.
-products:
+sponsors:
+  - image: img/cityofknoxville.svg
+    text: ' '
+  - image: img/knoxdevs.svg
+    text: ' '
+  - image: img/kec.png
+    text: ' '
+partners:
   - image: img/cityofknoxville.svg
     text: ' '
   - image: img/knoxdevs.svg
