@@ -1,9 +1,9 @@
+publish_mode: editorial_workflow
 backend:
   name: github
   repo: knxhx/knxhx.github.io
   open_authoring: true
 
-publish_mode: editorial_workflow
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
