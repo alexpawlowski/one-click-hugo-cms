@@ -68,7 +68,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Intro, name: intro, widget: object, fields: [
             {label: Heading, name: heading, widget: string}, 
             {label: Description, name: description, widget: text},
-            {label: "Document", name: "file", widget: "file", default: "/pdf/"} 
+            {label: "Document", name: "file", widget: "file", default: "/pdf/"}, 
             {label: Blurbs, name: blurbs, widget: list, fields: [
               {label: Image, name: image, widget: image}, 
               {label: Text, name: text, widget: text}]}]}
