@@ -22,12 +22,12 @@ intro:
     engineers, meet recruiters, and listen to great tech talks and tutorials
     from sponsors.
 sponsors:
-  - image: ''
-    text: ''
-  - image: ''
-    text: ''
-  - image: ''
-    text: ''
+  - image: img/cityofknoxville.svg
+    text: ' '
+  - image: img/knoxdevs.svg
+    text: ' '
+  - image: img/kec.png
+    text: ' '
 partners:
   - image: img/cityofknoxville.svg
     text: ' '
@@ -35,9 +35,11 @@ partners:
     text: ' '
   - image: img/kec.png
     text: ' '
-faq:
-  heading: Frequently Asked Questions
+values:
+  heading: Our values
   text: >-
-    You have questions? We have answers. Click below to learn more about what
-    you need to know for this year's hackathon.
+    Coffee is an amazing part of human culture but it has a dark side too – one
+    of colonialism and mindless abuse of natural resources and human lives. We
+    want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
 ---
