@@ -1,13 +1,11 @@
 ---
-title: Our Coffee
-type: products
+title: Sponsor
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  KnxHx is a great opportunity for you to connect with the Knoxville software
+  community and the City. Your financial support will help to fund this event
+  and enrich civic minded projects to succeed.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -97,6 +95,5 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
+type: products
 ---
-
-
