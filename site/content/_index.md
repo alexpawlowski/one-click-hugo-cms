@@ -1,15 +1,15 @@
 ---
 title: Knoxville City Hackathon
 subtitle: >-
-  Join us for a weekend of civic-minded innovation and collaboration downtown in
+  Join us for a weekend of civic-minded innovation and collaboration virtually to benefit
   our beloved city of Knoxville
 image: img/iaycxtg.jpg
 blurb:
   heading: About
   text: >-
     The Knoxville City Hackathon is coming back this summer for its 2nd edition,
-    stay tuned for more details on a weekend of civic-minded innovation and
-    collaboration downtown in our beloved city of Knoxville.
+    July 18th - 19th for a virtual rendition of civic-minded innovation and
+    collaboration for our beloved city of Knoxville.
 intro:
   heading: Hack on the Scruffy City
   text: >-

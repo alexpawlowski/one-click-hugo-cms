@@ -1,7 +1,11 @@
 ---
 title: FAQs
-image: img/500x200.png
+image: img/20190302_072835.jpg
 faqs:
+  - heading: Is this in-person?
+    text: |
+      It's not! Thanks to the Remo platform, we will be hosting this hackathon virtually. Due to the indoors nature of a traditional hackathon with 100s of participants in close proximity, we chose not to pursue an in-person format due to the ongoing COVID-19 pandemic. As East TN heads to Phase 3 by the time of the hackathon, we will have a limited number of organizers on-site physically together to ensure that we can diagnose any potential problems that arise for the weekend / provide support for our participants; but 100+ events indoors are still not the best idea.
+    imageUrl: img/500x200.png
   - heading: Where and when do I submit my project at the hackathon?
     text: |
       TBD!
@@ -15,31 +19,23 @@ faqs:
     imageUrl: img/500x200.png
   - heading: How much does it cost?
     text: >
-      $10. For $10, we will provide you with the venue, food, drinks, place to
-      sleep if needed, Wi-Fi, etc. You just need to show up!
+      $10. For $10, we will provide you with a t-shirt (mailing details TBD) and the opportunity to apply your skills to win prizes. You just need to sign up and log-in during the event!
     imageUrl: img/500x200.png
   - heading: Who can come?
     text: >
-      All residents ages 18 and up of Knoxville and the surrounding counties are
-      more than welcome to register and attend. While there is no limitation to
-      those outside of the area, please note that we cannot offer any travel
-      reimbursements for this event.
+      Any participants ages 18 and up of Knoxville and the surrounding counties are
+      more than welcome to register and virtually attend. Since it's virtual, anyone 18+ can participate, but keep in mind that the projects will be dealing with Knoxville specifically. If that's no problem, come on and join us!
     imageUrl: img/500x200.png
   - heading: 'Will there be free food, drinks, and caffeine?'
     text: >
-      Yes! Absolutely! We will provide catered meals, drinks at all times, snack
-      breaks, and endless caffeine.
+      Since we're virtual this year, no food/drinks/caffeine will be provided, so make sure you stock up before the weekend or have some deliveries to local restaurants at the ready.
     imageUrl: img/500x200.png
   - heading: Where do I sleep?
     text: >
-      We will have a designated quiet sleeping area on site, and you are
-      encouraged to bring sleeping bags, blankets, pillows, toiletries, and
-      anything else you need to sleep. There are no showers at the venue, so
-      please be prepared to go without showering unless you have other
-      accommodations.
+      Wherever your computer is.
     imageUrl: img/500x200.png
   - heading: When and where is Knoxville City Hackathon?
     text: |
-      Still TBD!
+      July 18th and 19th, 2020, we'll be hosting this year's hackathon virtually from the comfort of wherever your internet connection lives.
     imageUrl: img/500x200.png
 ---
