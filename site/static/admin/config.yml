@@ -69,7 +69,7 @@ collections: # A list of collections the CMS should be able to edit
             {label: Heading, name: heading, widget: string}, 
             {label: Description, name: description, widget: text},
             {label: Document, name: document, widget: file, default: "/pdf/"},
-            {label: Document Description, name: document_description, widget: text}
+            {label: Document Description, name: document_description, widget: text}]
       - file: "site/content/faq/_index.md"
         label: "FAQ Page"
         name: "faq"
