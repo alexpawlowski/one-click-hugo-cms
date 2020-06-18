@@ -9,7 +9,7 @@ blurb:
   text: >-
     The Knoxville City Hackathon is coming back this summer for its 2nd edition,
     July 18th - 19th for a virtual rendition of civic-minded innovation and
-    collaboration for our beloved city of Knoxville. Register on Eventbrite below.
+    collaboration for our beloved city of Knoxville.
 intro:
   heading: Hack on the Scruffy City
   text: >-
