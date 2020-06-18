@@ -2,8 +2,8 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "short-text" .Params.blurb }}
-{{ partial "text-and-image"  (dict "heading" "Sign Up" "text" "Register here on EventBrite" "buttonText" "Sign Up" "buttonLink" "https://knxhx2020.eventbrite.com") }}
+{{ partial "short-text" (dict "heading" .Params.blurb.heading "text" .Params.blurb.text "buttonText" "Register on EventBrite" "buttonLink" "https://knxhx2020.eventbrite.com/") }}
+
 {{ partial "2-up" .Params }}
 
 {{ partial "text-and-image" (dict "heading" .Params.faq.heading "text" .Params.faq.text "buttonText" "Read more" "buttonLink" "/faq") }}
