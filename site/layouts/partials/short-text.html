@@ -5,8 +5,10 @@
   </div>
   <div class="flex-l mhn1-l ph3 center mw7">
     <div class="f2 b lh-title mb2 w-40-l"></div>
+    {{ range .buttonList }}
     <div class="w-60-l mb0 tc">
-      <a href="{{.buttonLink}}" class="btn raise">{{.buttonText}}</a>
+      <a href="{{.link}}" class="btn raise">{{.text}}</a>
     </div>
+    {{ end }}
   </div>
 </div>

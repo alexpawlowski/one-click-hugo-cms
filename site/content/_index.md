@@ -10,6 +10,9 @@ blurb:
     The Knoxville City Hackathon is coming back this summer for its 2nd edition,
     July 18th - 19th for a virtual rendition of civic-minded innovation and
     collaboration for our beloved city of Knoxville.
+  button:
+  - text: Register on EventBrite
+    link: https://knxhx2020.eventbrite.com/ 
 intro:
   heading: Hack on the Scruffy City
   text: >-
@@ -22,22 +25,33 @@ intro:
     engineers, meet recruiters, and listen to great tech talks and tutorials
     from sponsors.
 sponsors:
-  - image: ''
-    text: ''
-  - image: ''
-    text: ''
-  - image: ''
-    text: ''
+  heading: Sponsors
+  text: >-
+    Thank you to our great sponsors for supporting our effort this year.
+  button:
+    text: Find out more about sponsorship
+    link: /sponsor
+  sponsors:
 partners:
+  heading: Partners
+  text: >-
+    Thank you to our great partners for putting in the work to make this year's Hackathon possible.
+  partners:
   - image: img/cityofknoxville.svg
     text: 'City of Knoxville'
+    link: https://knoxvilletn.gov/government/opendata
   - image: img/knoxdevs.svg
     text: 'KnoxDevs'
+    link: https://knoxdevs.com
   - image: img/kec.png
     text: 'Knoxville Entrepreneur Center'
+    link: http://knoxec.com/
 faq:
   heading: Frequently Asked Questions
   text: >-
     You have questions? We have answers. Click below to learn more about what
     you need to know for this year's hackathon.
+  button:
+    text: Read more
+    link: /faq
 ---

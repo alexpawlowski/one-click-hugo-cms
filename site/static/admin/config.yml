@@ -27,19 +27,53 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Image, name: image, widget: image}
           - {label: "Blurb", name: blurb, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
+              {label: "Text", name: "text", widget: "text"}
+              ]
+            }
           - {label: "Intro", name: intro, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Sponsors", name: sponsors, widget: list, fields: [
-              {label: "Image", name: "image", widget: "image"},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Partners", name: partners, widget: list, fields: [
-              {label: "Image", name: "image", widget: "image"},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Values", name: "values", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
+              {label: "Text", name: "text", widget: "text"}
+              ]
+            }
+          - {label: "Sponsors", name: sponsors, fields: [
+              {label: "Heading", name: heading, widget: string},
+              {label: "Text", name: text, widget: text},
+              {label: "Button", name: button, fields: [
+                {label: "Button Text", name: text, object: string },
+                {label: "Button Link", name: link, object: string }
+              ]
+              },
+              {label: "Sponsors", name: sponsors, widget: list, fields: [
+                {label: "Image", name: "image", widget: "image"},
+                {label: "URL", name: "url", widget: string},
+                {label: "Text", name: "text", widget: "text"}
+              ]
+              }
+            ]}
+          - {label: "Partners", name: partners, fields: [
+              {label: "Heading", name: heading, widget: string},
+              {label: "Text", name: text, widget: text},
+              {label: "Button", name: button, fields: [
+                {label: "Button Text", name: text, object: string },
+                {label: "Button Link", name: link, object: string }
+                ]
+              },
+              {label: "Partners", name: partners, widget: list, fields: [
+                {label: "Image", name: "image", widget: "image"},
+                {label: "URL", name: "url", widget: string},
+                {label: "Text", name: "text", widget: "text"}
+                ]
+              }
+            ]
+          }
+          - {label: "FAQ", name: faq, fields: [
+              {label: "Heading", name: heading, widget: string},
+              {label: "Text", name: text, widget: text},
+              {label: "Button", name: button, object, fields: [
+              {label: "Button Text", name: text, object: string },
+              {label: "Button Link", name: link, object: string }
+            ]}
+          ]}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
@@ -57,19 +91,25 @@ collections: # A list of collections the CMS should be able to edit
               - label: Text
                 name: text
                 widget: text
+      - file: "site/content/schedule/_index.md"
+        label: "Schedule"
+        name: "schedule"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Body, name: body, widget: markdown}
       - file: "site/content/sponsor/_index.md"
         label: "Sponsor Page"
         name: "sponsor"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
-          - {label: Intro, name: intro, widget: object, fields: [
-            {label: Heading, name: heading, widget: string}, 
-            {label: Description, name: description, widget: text},
-            {label: Document, name: document, widget: file, default: "/pdf/"},
-            {label: Document Description, name: document_description, widget: text}]}
+          - {label: Body, name: body, widget: markdown}
+          - {label: "Attach a Document", name: button, widget: object, fields:[
+              {label: Document, name: file, widget: file, default: "/pdf/"},
+              {label: "Button Text", name: text, widget: string}
+            ]
+            }
       - file: "site/content/faq/_index.md"
         label: "FAQ Page"
         name: "faq"
