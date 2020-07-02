@@ -5,8 +5,7 @@ faqs:
   - heading: Is this in-person?
     text: >
       It's not! Thanks to the Remo platform and local virtual experience experts
-      <a href="https://www.remo.co/?fpr=lunchpool"
-      target="_blank">Lunchpool</a>, we will be hosting this hackathon
+      [Lunchpool](https://www.remo.co/?fpr=lunchpool), we will be hosting this hackathon
       virtually. Due to the indoors nature of a traditional hackathon with 100s
       of participants in close proximity, we chose not to pursue an in-person
       format due to the ongoing COVID-19 pandemic. As East TN heads to Phase 3
