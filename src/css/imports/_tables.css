@@ -1,30 +1,27 @@
-table
+.bordered table
 {
   border-radius: var(--border-radius);
   overflow: hidden;
 }
 
-td, th {
-  padding: $spacing-medium;
+.bordered td, th {
+  padding: var(--spacing-medium);
 }
 
-th:not(:first-child), td:not(:first-child) {
-  text-align: right;
-}
-
-th {
-  color: var(--grey-3);
-  font-weight: 700;
-  white-space: nowrap;
-   {
-    white-space: wrap;
-  }
-}
-
-tr th {
+.bordered th:not(:first-child), td:not(:first-child) {
   text-align: center;
 }
 
-tbody tr:nth-child(even) {
+.bordered th {
+  color: var(--grey-3);
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.bordered tr th {
+  text-align: center;
+}
+
+.bordered tbody tr:nth-child(even) {
   background-color: var(--grey-1);
 }

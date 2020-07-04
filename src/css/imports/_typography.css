@@ -25,6 +25,11 @@ p {
   max-width: 32rem;
 }
 
+h2 {
+  font-size: 2.25rem;
+  font-weight: var(--bold-font-weight);
+}
+
 strong {
   font-weight: var(--bold-font-weight);
 }

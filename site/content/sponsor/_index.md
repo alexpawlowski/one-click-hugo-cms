@@ -5,7 +5,7 @@ button:
   text: View Sponsorship Document
   file: pdf/knxhx_sponsorship_2020.pdf
 ---
-<h2 class="f2 b lh-title mb2">What We Offer</h2>
+## What We Offer
 
 KnxHx is a great opportunity for you to connect with the Knoxville software
 community and the City. Your financial support will help to fund this event
