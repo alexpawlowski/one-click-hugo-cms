@@ -32,6 +32,12 @@ sponsors:
     text: Find out more about sponsorship
     link: /sponsor
   sponsors:
+  - image: img/mtna.svg
+    text: 'Metadata Technology North America'
+    link: https://www.mtna.us
+  - image: img/ornl.svg
+    text: 'Oak Ridge National Lab'
+    link: https://ornl.gov
 partners:
   heading: Partners
   text: >-
