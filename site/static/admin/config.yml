@@ -91,6 +91,13 @@ collections: # A list of collections the CMS should be able to edit
               - label: Text
                 name: text
                 widget: text
+      - file: "site/content/data/_index.md"
+        label: "Data"
+        name: "data"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Body, name: body, widget: markdown}
       - file: "site/content/schedule/_index.md"
         label: "Schedule"
         name: "schedule"
