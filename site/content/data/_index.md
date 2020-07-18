@@ -3,6 +3,8 @@ title: Data
 image: img/20190302_072835.jpg
 ---
 
+The data portal for the 2020 KNXHX is provided by our sponsor, [MTNA](https://www.mtna.us/). Checkout all the data here: [Data Portal](https://knxhx.richdataservices.com/).
+
 Below are the data challenges for the weekend:
 
 ## Shared Micromobility and Infrastructure

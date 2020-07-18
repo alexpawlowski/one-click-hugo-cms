@@ -10,6 +10,9 @@ sponsors:
   - image: img/ornl.svg
     text: 'Oak Ridge National Lab'
     link: https://ornl.gov
+  - image: img/premier.jpg
+    text: 'Premier Staffing Partners'
+    link: http://premierstaffingpartners.com/
 button:
   text: View Sponsorship Document
   file: pdf/knxhx_sponsorship_2020.pdf
