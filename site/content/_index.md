@@ -46,6 +46,9 @@ partners:
   text: >-
     Thank you to our great partners for putting in the work to make this year's Hackathon possible.
   partners:
+  - image: img/lunchpool.png
+    text: 'Lunchpool'
+    link: 'https://lunchpool.io'
   - image: img/cityofknoxville.svg
     text: 'City of Knoxville'
     link: https://knoxvilletn.gov/government/opendata
